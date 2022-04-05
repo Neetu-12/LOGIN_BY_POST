@@ -1,0 +1,14 @@
+{
+  "name": "routing2.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "routing2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neetu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
